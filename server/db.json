@@ -1,0 +1,59 @@
+{
+  "tasks": [
+    {
+      "title": "inline and inline-block, grid",
+      "completed": false,
+      "id": "93PXXfmnUYd2l_gYjXBcG"
+    },
+    {
+      "title": "em rem % ",
+      "completed": false,
+      "id": "5HfId7yJWRsLnKU12TIjU"
+    },
+    {
+      "title": "Разница между отзывчивым и адаптивным",
+      "completed": false,
+      "id": "suVy5Or2ieP6Jz4fSnjJ2"
+    },
+    {
+      "title": "Познакомиться с axios",
+      "completed": false,
+      "id": "RPCCuxsm9I_IuZAPuG0ts"
+    },
+    {
+      "title": "познакомиться с JQuery",
+      "completed": false,
+      "id": "V5BYG52uwhazD5x1LfNU5"
+    },
+    {
+      "title": "Bootstrap 4",
+      "completed": false,
+      "id": "zq_flFP3d6S2uXwPhhqk0"
+    },
+    {
+      "title": "Сварить суп",
+      "completed": false,
+      "id": "gMbJA9VpWdCVgpNfaUdsp"
+    },
+    {
+      "title": "Приготовить плов",
+      "completed": false,
+      "id": "dyWbg156VG14sJNmaEfc7"
+    },
+    {
+      "title": "Сходить в магазин",
+      "completed": false,
+      "id": "cgCSY1_U15KBxC6-YfKt1"
+    },
+    {
+      "title": "Вымыть пол в комнате",
+      "completed": false,
+      "id": "eFdxzpDdoWBrAH-Ye7n-I"
+    },
+    {
+      "title": "Загрузить приложение в gihab и vercel",
+      "completed": false,
+      "id": "Y2slcE24UTvWN5KYbK6Wg"
+    }
+  ]
+}
